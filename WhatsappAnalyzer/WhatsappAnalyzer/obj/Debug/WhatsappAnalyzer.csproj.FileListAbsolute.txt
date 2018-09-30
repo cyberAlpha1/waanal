@@ -1,0 +1,13 @@
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\bin\Debug\WhatsappAnalyzer.exe.config
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\bin\Debug\WhatsappAnalyzer.exe
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\bin\Debug\WhatsappAnalyzer.pdb
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\obj\Debug\WhatsappAnalyzer.csprojAssemblyReference.cache
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\obj\Debug\WhatsappAnalyzer.home.resources
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\obj\Debug\WhatsappAnalyzer.Properties.Resources.resources
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\obj\Debug\WhatsappAnalyzer.csproj.GenerateResource.cache
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\obj\Debug\WhatsappAnalyzer.csproj.CoreCompileInputs.cache
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\obj\Debug\WhatsappAnalyzer.exe
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\obj\Debug\WhatsappAnalyzer.pdb
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\bin\Debug\EPPlus.dll
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\bin\Debug\EPPlus.xml
+E:\dzint\Documents\VS2017\WhatsappAnalyzer\WhatsappAnalyzer\obj\Debug\WhatsappAnalyzer.csproj.CopyComplete
